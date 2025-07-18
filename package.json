@@ -1,0 +1,26 @@
+{
+  "name": "register-form",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000o\u0000g\u0000i\u0000n\u0000-\u0000F\u0000o\u0000r\u0000m\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdeveloper917/Login-Form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdeveloper917/Login-Form/issues"
+  },
+  "homepage": "https://github.com/mrdeveloper917/Login-Form#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+  }
+}
